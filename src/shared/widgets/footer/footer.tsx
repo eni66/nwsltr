@@ -36,7 +36,7 @@ const Footer = () => {
           <p className="text-2xl py-2">
             Contact Us <br /><br />
             <span className="text-xl">
-            Reach us on +1 234 886 2345 for inquiries. We are eager to hear from you.
+            Reach us on +1 360-727-6780 for inquiries. We are eager to hear from you.
           </span>
           </p>
           </div>
